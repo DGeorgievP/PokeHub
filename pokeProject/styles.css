@@ -10,17 +10,25 @@ h1 {
     color: wheat;
 }
 
+h2 {
+    text-align: right;
+    color: wheat;
+}
+
+.flex-container {
+    display: block;
+    text-align: right;
+}
+
 .barandbutton {
     text-align: center;
 }
-
 .searchbar {
     background-color:wheat;
     border-radius: 50px;
     color: black;
     padding: 2mm;
 }
-
 .searchbutton {
     background-color: wheat;
     border-radius: 50px;
